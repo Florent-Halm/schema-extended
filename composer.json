@@ -19,7 +19,7 @@
     "extra": {
         "laravel": {
             "aliases": {
-                "SchemaExtended": "SchemaExtended\Schema"
+                "SchemaExtended": "SchemaExtended\\Schema"
             }
         }
     }
