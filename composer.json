@@ -15,5 +15,12 @@
         "psr-4": {
             "SchemaExtended\\": "src/SchemaExtended/"
         }
+    },
+    "extra": {
+        "laravel": {
+            "aliases": {
+                "SchemaExtended": "SchemaExtended\Schema"
+            }
+        }
     }
 }
